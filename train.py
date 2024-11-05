@@ -16,8 +16,8 @@ import lpips
 import time
 from datetime import datetime, timedelta
 
-CHECKPOINT_MARK_1 = 10_000
-CHECKPOINT_MARK_2 = 1500
+CHECKPOINT_MARK_1 = 37_000
+CHECKPOINT_MARK_2 = 16_600
 IMAGE_SIZE = 400
 
 def infoMessage0(string):
